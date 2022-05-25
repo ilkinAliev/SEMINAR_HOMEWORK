@@ -19,5 +19,5 @@ while Programm == True:
             
         else:
             file.write(f'{random.randint(1, 101)}x + {random.randint(1, 101)} = 0\n')
-            
+        
     file = close
