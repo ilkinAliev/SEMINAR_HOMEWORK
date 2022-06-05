@@ -1,2 +1,2 @@
 0    surname   name   phone_number   
-1    aliev   ilkin   812   
+1    aliev   ilikn   123456   
